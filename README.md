@@ -1,1 +1,1 @@
-this is aptos course,s assignment.
+this is Aptos course's assignment.
